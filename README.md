@@ -11,7 +11,7 @@
 
 <br>
 
-- Former Software Engineering Intern at Illiquid Labs.
+- Former Software Engineering Intern at ServiceNow.
 - Passionate about designing and developing scalable software solutions that deliver significant value.
 - Computer Science Major @ Minerva University
 - Current [resume](https://drive.google.com/file/d/1c7nhcY06-X9FRKpInV0y-UcoRl8pnlSF/view?usp=sharing).
